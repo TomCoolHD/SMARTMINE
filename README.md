@@ -1,0 +1,2 @@
+# SMARTMINE
+Infos zum SMARTMINE NETWORK Server!
